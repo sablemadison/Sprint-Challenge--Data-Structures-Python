@@ -94,5 +94,5 @@ While credit will be given for a functional solution, only optimal solutions wil
 | Task 3. Reverse the contents of a Singly Linked List | Student's solution in `reverse.py` is failing one or more tests. | Student's solution in `reverse.py` is able to correctly print out the contents of the Linked List in reverse order, passing all tests, BUT, the runtime of their solution is not optimal (requires looping through the list more than once). | Student's solution in `reverse.py` is able to correctly print out the contents of the Linked List in reverse order, passing all tests AND exhibits an appropriate runtime. |  |
 
 
-#### Passing the Sprint
+#### Passing the Sprint 
 Score ranges for a 1, 2, and 3 are shown in the rubric above. For a student to have _passed_ a sprint challenge, they need to earn an **at least 2** for all items on the rubric.
